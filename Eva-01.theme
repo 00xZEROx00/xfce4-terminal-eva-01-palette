@@ -1,0 +1,11 @@
+[Scheme]
+Name=Eva-01
+ColorForeground=#A1B2DE
+ColorBackground=#000000
+ColorCursor=#F7BB29
+ColorCursorUseDefault=FALSE
+ColorSelectionBackground=#A877C8
+ColorSelectionUseDefault=FALSE
+ColorBold=#A1B2DE
+ColorBoldUseDefault=FALSE
+ColorPalette=#000000;#A877C8;#A2DB5A;#F7BB29;#A1B2DE;#A877C8;#A2DB5A;#A1B2DE;#000000;#A877C8;#A2DB5A;#F7BB29;#A1B2DE;#A877C8;#A2DB5A;#A1B2DE
