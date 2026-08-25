@@ -123,7 +123,3 @@ Eva-01.theme
 Eva-01.16.theme
 README.md
 ```
-
-## License
-
-No license is included by default. Add a `LICENSE` file before publishing if you want to specify how others may use, modify, and redistribute the themes.
